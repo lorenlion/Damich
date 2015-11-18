@@ -1,0 +1,152 @@
+*{
+	font-family: Dosis;
+	margin: 0;
+	padding: 0;
+}
+#container{
+	height: 476px;
+	width: 83%;
+	margin-left: 168px;
+	position: absolute;
+}
+header{
+	position: absolute;
+	font-size: 50px;
+	font-weight: 800;
+	letter-spacing: 6px;
+    text-align: center;
+    border: 1px solid white;
+    width: 300px;
+    margin-left: 280px;
+    height: 60px;
+    margin-top: 20px;
+}
+#subheader{
+	position: absolute;
+	font-size: 17px;
+	margin: 0 auto;
+	border: 1px solid white;
+	width: 500px;
+	text-align: center;
+	letter-spacing: 1px;
+	margin-top: 90px;
+	margin-left: 160px;
+	
+}
+#sh{
+	background-color: black;
+	color:white;
+	padding: 1.5px;
+	border-radius: 1%;
+}
+#brain{
+	position: absolute;
+	margin: 0 auto;
+	zoom:37%;
+    margin-top: 90px;
+   margin-left:1530px;
+}
+#searchbar{
+	margin-top: 150px;
+	outline: none;
+	text-align: right;
+	font-size: 14px;
+	height: 20px;
+	border-radius:5%;
+	border-color: transparent;
+	margin-left: 28px;
+}
+#searchButton{
+	margin-top: 8px;
+	border: 1px solid black;
+	zoom: 8%;
+	outline: none;
+
+}
+nav {
+	position: absolute;
+	position: fixed;
+	width:15%;
+	height: 1200px;
+	text-align: left;
+	background-color: black;	
+	padding-right: 8px;
+}
+nav ul{
+	margin-top: 20px;
+	margin-left: 28px;
+	list-style-type: none;
+	color:white;
+}
+ul li{
+	font-size: 18px;	
+	line-height: 50px;
+	text-align: left;
+}
+a:link{
+	text-decoration: none;
+	color:white;
+}
+a:visited{
+	color:white;
+}
+a:hover{
+	color: white;
+	font-size: 130%;
+}
+
+a:active{
+	text-decoration: underline;
+}
+#logo{
+	zoom:30%;
+}
+#subc{
+	width: 96%;
+	height:1500px;
+	display: inline-block;
+	margin-top: 150px;
+	margin-left: 20px;
+	border: 1px solid white;
+
+}
+
+#pic img{
+	position: absolute;
+	width: 50%;
+	margin-left: 190px;
+}
+#subc h1{
+	position: absolute;
+	margin-left: 240px;
+	text-align: center;
+	margin-top: 310px;
+	font-weight: lighter;
+}
+
+#pc p{
+	position: absolute;
+	margin-top: 370px;
+	margin-left: 25px;
+	font-size: 16px;
+	border: 1px solid white;
+	width: 90%;
+	font-family: 'Open Sans', sans-serif;
+	
+	text-align: justify;
+}
+footer{
+	position: absolute;
+	width:84%;
+	height: 12%;
+	border: 1px solid black;
+	background-color: black;
+	bottom: -1180px;
+	margin-left: 165px;
+	color: white;
+
+}
+footer p{
+	text-align: center;
+	margin-top: 10px;
+}
